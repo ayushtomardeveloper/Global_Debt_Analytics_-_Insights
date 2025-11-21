@@ -53,6 +53,14 @@ Global_Debt_Analytics_&_Insights/
 - Financial Data Interpretation
 - Business Intelligence
 
-## 📜 License
+---
 
-MIT License
+## 👨‍💻 Author
+
+**Ayush Tomar**
+
+- 📧 Email: Ayushtomardeveloper@gmail.com
+
+---
+
+⭐ If you found this project helpful, give it a star!
